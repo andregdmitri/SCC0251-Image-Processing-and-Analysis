@@ -1,15 +1,14 @@
 # SCC0251-Image-Processing-and-Analysis
 SCC0251 - Image Processing and Analysis 2023
 
-Name: Andre Guarnier De Mitri
-
-nUSP: 11395579
+Author: Andre Guarnier De Mitri
 
 Discipline: SCC0251
 
+Class: 2023101
+
 Year: 2023-01
 
-Class: 2023101
 
 Prof. Moacir A. Ponti
 
